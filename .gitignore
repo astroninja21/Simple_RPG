@@ -123,3 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/workspace.xml
+.idea/modules.xml
+.idea/Simple_RPG.iml
+.idea/vcs.xml
+.idea/dictionaries/Nolan.xml
